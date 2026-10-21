@@ -1,6 +1,7 @@
 {
  "work": "拾遺和歌集",
  "work_id": "kt-shui",
+ "repo": "kumoi-no-fumigura/shui-wakashu",
  "yomi": "しゅういわかしゅう",
  "category": "勅撰集",
  "kind": "kashu",
@@ -16233,6 +16234,5 @@
    "text": "いかるがやとみのを川の絕えば社我大君のみなな忘れめ",
    "sachu": ""
   }
- ],
- "repo": "kumoi-no-fumigura/shui-wakashu"
+ ]
 }
